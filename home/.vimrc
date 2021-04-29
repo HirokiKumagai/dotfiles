@@ -1,0 +1,1 @@
+../../my_shick_castle/home/.vimrc
